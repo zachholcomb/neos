@@ -1,0 +1,3 @@
+require_relative 'near_earth_objects_interface'
+
+NearEarthObjectsInterface.start
